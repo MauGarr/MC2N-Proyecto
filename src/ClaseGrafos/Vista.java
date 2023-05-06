@@ -250,7 +250,7 @@ public class Vista extends javax.swing.JFrame {
         Matriz.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Matriz", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Comic Sans MS", 1, 18), new java.awt.Color(0, 0, 0))); // NOI18N
         jScrollPane1.setViewportView(Matriz);
 
-        panelView.setBackground(new java.awt.Color(153, 255, 255));
+        panelView.setBackground(new java.awt.Color(204, 255, 255));
         panelView.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(51, 102, 255)));
         panelView.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
