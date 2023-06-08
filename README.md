@@ -1,3 +1,3 @@
 # Edison Mauricio García Rodríguez
 ## 202200031  
-### MC2N - Software de Grafos
+### MC2N
